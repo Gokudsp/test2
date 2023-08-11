@@ -1,0 +1,12 @@
+{
+    "name":"Raja",
+    "age":28,
+   "study":"mech",
+    "password":"raja1234"
+}
+{
+    "name":"Raj",
+    "age":27,
+    "study":"csc"
+    "password":"raj99"
+}
